@@ -92,44 +92,43 @@ export default function Footer() {
           </Stack>
           <VStack mt={0}>
             <Box>
-              <Link isExternal href="https://besu.hyperledger.org/en/latest/">
+               <Link isExternal href="https://flamingoaudit.com">
                 {" "}
-                Hyperledger Besu{" "}
+                Flamingo Tech{" "}
               </Link>{" "}
               |
               <Link
                 isExternal
-                href="https://consensys.net/docs/goquorum/en/latest/"
+                href="https://enterchainlabs.com"
               >
                 {" "}
-                GoQuorum{" "}
+                EnterChain{" "}
               </Link>{" "}
               |
               <Link
                 isExternal
-                href="https://docs.tessera.consensys.net/en/latest/"
+                href="https://entercoin.net"
+                {" "}
+                EnterCoin{" "}
+              </Link>{" "}
+              |
+              <Link
+                isExternal
+                href="https://enterchainlabs.com/forums/"
               >
                 {" "}
-                Tessera{" "}
+                Dev Forums{" "}
               </Link>{" "}
               |
               <Link
                 isExternal
-                href="https://docs.orchestrate.consensys.net/en/latest/"
-              >
-                {" "}
-                Codefi Orchestrate{" "}
-              </Link>{" "}
-              |
-              <Link
-                isExternal
-                href="https://discord.com/channels/697535391594446898/"
+                href="https://discord.gg/fSZuV7m85R"
               >
                 {" "}
                 Discord{" "}
               </Link>{" "}
               |
-              <Link isExternal href="https://consensys.net/contact/">
+              <Link isExternal href="https://enterchainlabs.com/contact/">
                 {" "}
                 Contact{" "}
               </Link>
