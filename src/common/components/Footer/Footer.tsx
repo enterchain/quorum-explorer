@@ -49,9 +49,9 @@ export default function Footer() {
           >
             <ConsensysIcon boxSize="8em" />
             <ButtonGroup variant="ghost">
-              <Link
+             <Link
                 isExternal
-                href="https://www.linkedin.com/company/consensus-systems-consensys-/"
+                href="https://www.linkedin.com/company/identer-blockchain-technology/"
               >
                 <IconButton
                   aria-label="LinkedIn"
@@ -65,7 +65,7 @@ export default function Footer() {
               </Link>
               <Link
                 isExternal
-                href="https://github.com/ConsenSys/quorum-explorer"
+                href="https://github.com/enterchain/"
               >
                 <IconButton
                   aria-label="GitHub"
@@ -77,7 +77,7 @@ export default function Footer() {
                   }
                 />
               </Link>
-              <Link isExternal href="https://twitter.com/ConsenSys">
+              <Link isExternal href="https://twitter.com/enterchainlabs">
                 <IconButton
                   aria-label="Twitter"
                   icon={
@@ -92,7 +92,7 @@ export default function Footer() {
           </Stack>
           <VStack mt={0}>
             <Box>
-               <Link isExternal href="https://flamingoaudit.com">
+              <Link isExternal href="https://flamingoaudit.com">
                 {" "}
                 Flamingo Tech{" "}
               </Link>{" "}
